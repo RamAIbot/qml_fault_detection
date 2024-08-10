@@ -62,3 +62,8 @@ On the other hand, with an increase in the number of qubits from 4 to 8 and havi
 _Upload/ Link a 3min. presentation deck here._
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
+
+[Added Presentation slides in this repo]
+
+Link 
+<a href="https://docs.google.com/presentation/d/1Y6sKyRknrugQWlMf_0_BX-oy2uqRKXIuiIbhJxYlUgI/edit?usp=sharing">https://docs.google.com/presentation/d/1Y6sKyRknrugQWlMf_0_BX-oy2uqRKXIuiIbhJxYlUgI/edit?usp=sharing</a>
