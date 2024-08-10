@@ -47,6 +47,8 @@ Team Member 2:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
+Results  - https://github.com/RamAIbot/qml_fault_detection/tree/master/Final_results
+
 In this project, we have explored the usage of Deep learning techniques and Quantum Machine learning (QML)  techniques to perform classification of Welded structures whether it is a good weld or a defective item. We have also categorized the detective item into various buckets of the weld defects in an automated way.
 
 In the case of the binary classification into good welds and defects, the classical deep learning (DL)  model Resnet18 was able to achieve an accuracy of 97% while the hybrid QML model achieved 92%. It can be noted that the hybrid QML model was able to achieve good results like the DL model with a lesser number of parameters in the linear layer.
